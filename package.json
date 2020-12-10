@@ -1,0 +1,25 @@
+{
+  "name": "decorion-chatapp",
+  "version": "1.0.0",
+  "description": "Simple Chat APp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vee-lieve/Decorion-ChatApp.git"
+  },
+  "author": "Evangeline Decorion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vee-lieve/Decorion-ChatApp/issues"
+  },
+  "homepage": "https://github.com/Vee-lieve/Decorion-ChatApp#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6",
+    "socket.io": "^3.0.4"
+  }
+}
